@@ -37,6 +37,6 @@ This dashboard enabled business stakeholders to:
 <img width="357" height="275" alt="excel bikesales  dashboard" src="https://github.com/user-attachments/assets/a2f7b8e2-dabb-4393-9859-90828dee311c" />
 
 
-📁 **Dataset:**  
+  
 
 
