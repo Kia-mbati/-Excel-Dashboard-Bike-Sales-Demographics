@@ -33,10 +33,10 @@ This dashboard enabled business stakeholders to:
 
 ---
 
-📊 **Preview Screenshot:**  
-*Add a screenshot or GIF of the da<img width="357" height="275" alt="excel bikesales  dashboard" src="https://github.com/user-attachments/assets/a2f7b8e2-dabb-4393-9859-90828dee311c" />
-shboard here*
+📊 ## Bikesales dashboard:**  
+<img width="357" height="275" alt="excel bikesales  dashboard" src="https://github.com/user-attachments/assets/a2f7b8e2-dabb-4393-9859-90828dee311c" />
+
 
 📁 **Dataset:**  
-*Link to dataset if allowed or anonymized*
+
 
